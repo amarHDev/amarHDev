@@ -1,4 +1,4 @@
-![Cover](https://github.com/amarHDev/amarHDev/tree/main/img)
+![Cover](https://github.com/amarHDev/amarHDev/tree/main/img/1640343209389.jpg)
 
 ### Hi there 👋  👯 I’m actually looking for an internship in data science ... if you are interested about me, please contact me on : [e-mail](mailto:henni.amar24@gmail.com)
 
