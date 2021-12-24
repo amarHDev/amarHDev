@@ -1,6 +1,6 @@
 ![Cover](https://github.com/amarHDev/amarHDev/tree/main/img/1640343209389.jpg)
 
-### Hi there 👋  👯 I’m actually looking for an internship in data science ... if you are interested about me, please contact me on : [e-mail](mailto:henni.amar24@gmail.com)
+### Hi there 👋  I’m actually looking for an internship in data science ... if you are interested about me, please contact me on : [e-mail](mailto:henni.amar24@gmail.com)
 
   - &#127891; Graduate in [Computer Science (Master 2)](https://www.ummto.dz/fgei/)
   - &#127891; Graduated in [Master 1 HPC](http://chps.uvsq.fr/master1/) at University of [Paris Saclay](https://www.universite-paris-saclay.fr/formation/master/calcul-haute-performance-simulation/m1-calcul-haute-performance-simulation)
